@@ -1,4 +1,4 @@
-Rayahan Ahadi Nifri 21343035
+Rayhan Ahadi Nifri 21343035
 Kita mempelajari operator bilangan pada java,opertor java terbagi 3,yaitu : a)unary operator,seperti operasi penambahan,pengurangan atau membalik nilai dari suatu boolean b)Binary operator,Seperti arithmetic,relational,logical,bitwise,assignment operator c)Ternary Operator
 
 a)Cara menggunakan unary operator,contoh : int i = 10; int j = 3; //Diatas merupakan pendeklarasian Variabel integer System.out.println("i+j = " + (i+j)); //Diatas merupakan contoh penggunaan operator aritmatika (+) //maka hasilnya : i+j = 13
